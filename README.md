@@ -1,0 +1,1 @@
+# SharkCO-Firefox-Add-on
