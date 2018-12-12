@@ -1,0 +1,15 @@
+body{
+  font-family: sans-serif;
+  width: 350px;
+  height: 500px;
+}
+
+h1{
+  font-size: 30px;
+}
+
+a{
+  list-style: none;
+  text-decoration: none;
+  font-size: 20px;
+}
